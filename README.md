@@ -72,3 +72,12 @@ sort and uniq -c for counting, a here-document inside a for loop to
 create certificates, and sed -i to remove a record safely after
 taking a copy. I also learned input validation, logging, tar.gz
 backups and scheduling a daily task with crontab.
+
+
+
+## Project Guide
+
+This project was completed under the guidance of **Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications, LJ Institute of Computer Applications, LJ University, Ahmedabad.
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+Linux students write: OS Linux Lab 260120510 | Project ID: L81
